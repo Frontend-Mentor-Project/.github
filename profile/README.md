@@ -1,12 +1,10 @@
-## Hi there 👋
+## FRONTEND MENTOR TOPLULUĞU
 
-<!--
+# TOPLULUK HAKKINDA
+Frontend alanına yeni başlamış ve ne yapacağını bilmeyen bireylere mentorler eşliğinde projeler verilerek kişileri geliştirmeyi amaçlar. (ÜCRETSİZ)
 
-**Here are some ideas to get you started:**
+# TOPLULUĞA NASIL DAHİL OLABİLİRSİNİZ?
+7/24 aktif Discord sunucumuza katılabilir ve aklınıza takılan her şeyi birebir mentorlere sorabilirsiniz. ==> Katılım Linki: [Discord](https://discord.gg/hUz3hVDzJE)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# PROJELERİ NEREDE BULABİLİRSİNİZ?
+Yukarıda linki verilen Discord sunucusunda "projeler" kanalından projelere ulaşabilirsiniz.
