@@ -14,4 +14,4 @@ Yukarıda linki verilen Discord sunucusunda "projeler" kanalından projelere ula
 <br />
 
 ## :question: PROJELERE NASIL KATKIDA BULUNABİLİRİM? NASIL PR ATABİLİRİM?
-Pull Request nedir ve nasıl atılırı anlatan yazıya göz atabilirsiniz --> [Pull Request Nedir?](https://medium.com/@beyzatekinli/pull-request-nedir-nas%C4%B1l-at%C4%B1l%C4%B1r-67303dd69afc)
+Pull Request nedir ve nasıl atılırı anlatan yazıya göz atabilirsiniz. --> [Pull Request Nedir?](https://medium.com/@beyzatekinli/pull-request-nedir-nas%C4%B1l-at%C4%B1l%C4%B1r-67303dd69afc)
