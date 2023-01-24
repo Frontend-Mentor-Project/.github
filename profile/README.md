@@ -4,7 +4,7 @@ Frontend alanına yeni başlamış ve ne yapacağını bilmeyen bireylere mentor
 <br />
 
 ## :link: TOPLULUĞA NASIL DAHİL OLABİLİRİM?
-7/24 aktif Discord sunucumuza katılabilir ve aklınıza takılan her şeyi birebir mentorlere sorabilirsiniz. --> Katılım Linki: [Discord](https://discord.gg/hUz3hVDzJE)
+7/24 aktif Discord sunucumuza katılabilir ve aklınıza takılan her şeyi birebir mentorlere sorabilirsiniz. --> [Discord](https://discord.gg/hUz3hVDzJE)
 
 <br />
 
